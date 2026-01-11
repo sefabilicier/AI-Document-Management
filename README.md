@@ -1,9 +1,9 @@
 # AI-Powered Document Management System
 
-https://img.shields.io/badge/DocSlim-Data%2520Reduction-blue
-https://img.shields.io/badge/Python-3.8+-green
-https://img.shields.io/badge/FastAPI-0.104+-brightgreen
-https://img.shields.io/badge/React-18.2-blue
+![Static Badge](https://img.shields.io/badge/DocSlim-Data%2520Reduction-blue) 
+![Static Badge](https://img.shields.io/badge/Python-3.8+-green)
+![Static Badge](https://img.shields.io/badge/FastAPI-0.104+-brightgreen)
+![Static Badge](https://img.shields.io/badge/React-18.2-blue)
 
 This project is an intelligent document management system that demonstrates real-time **data reduction** techniques including **deduplication**, **compression**, and **intelligent tiering**. This project showcases how organizations can significantly **reduce storage costs** while maintaining data accessibility.
 
