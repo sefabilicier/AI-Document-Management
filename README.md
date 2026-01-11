@@ -20,8 +20,8 @@ This project is an intelligent document management system that demonstrates real
 1. Clone & Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/docslim.git
-cd docslim
+git clone [https://github.com/yourusername/docslim.git](https://github.com/sefabilicier/AI-Document-Management.git)
+cd AI-Document-Management
 
 # Set up backend
 cd backend
