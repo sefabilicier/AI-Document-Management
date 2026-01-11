@@ -1,6 +1,6 @@
 # AI-Powered Document Management System
 
-![Static Badge](https://img.shields.io/badge/DocSlim-Data%2520Reduction-blue) 
+![Static Badge](https://img.shields.io/badge/DocumentManagement-Data%2520Reduction-blue) 
 ![Static Badge](https://img.shields.io/badge/Python-3.8+-green)
 ![Static Badge](https://img.shields.io/badge/FastAPI-0.104+-brightgreen)
 ![Static Badge](https://img.shields.io/badge/React-18.2-blue)
