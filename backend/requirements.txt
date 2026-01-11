@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+psycopg2-binary
+pymupdf
+python-docx
+pillow
+pytesseract
+sentence-transformers
+numpy
+pandas
+python-magic
+redis
+celery
